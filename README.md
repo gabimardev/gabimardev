@@ -1,7 +1,5 @@
- <div align="center">
       # Hola, soy Gabimardev 👋
-   </div>
-      
+
       ## 📂 Mis últimos proyectos
       <table>
       <tr>
@@ -97,13 +95,9 @@
           <br>           
       
       ## 📊 GitHub Analytics
-      
-      <p align="center">
-      <a href="https://github.com/gabimardev">
+
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabimardev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabimardev&layout=compact&langs_count=8&theme=default"/>
-      </a>
-      </p>
 
 <!--
 **gabimardev/gabimardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
